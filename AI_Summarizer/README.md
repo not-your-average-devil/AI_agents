@@ -12,9 +12,9 @@ In this project the program takes input from the user about the topic they want 
 
 ## Tutorial to Build From Scratch
 
-Follow this really cool tutorial to start building your own AI agent from scratch:  
+Follow this really cool tutorial to start from scratch:  
 [https://www.youtube.com/watch?v=1h6lfzJ0wZw](https://www.youtube.com/watch?v=1h6lfzJ0wZw)
 
 ---
 
-After you have your model up and running, check out my `main.py` file to get a deeper understanding of how everything works under the hood.
+After you have your program up and running, check out my `main.py` file to get a deeper understanding of how everything works under the hood.
