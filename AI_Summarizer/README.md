@@ -1,6 +1,6 @@
-# Building a Topic summarizer AI Agent
+# Running Hugging faces models locally
 
-This AI agent takes input from the user about the topic they want summarized, along with the desired explanation age group. It then generates a summary tailored accordingly.
+In this project the program takes input from the user about the topic they want summarized, along with the desired explanation age group. It then generates a summary tailored accordingly.
 
 ## Technologies Used
 
